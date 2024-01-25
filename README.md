@@ -39,11 +39,11 @@
 <details>
 <summary>组成原理</summary>
 
-| <a href=" "> <img src="images/组成原理/计算机组成  结构化方法（原书第6版）.jpg" width="150px"  /></a> | <a href=" "> <img src="images/组成原理/计算机组成与设计 硬件软件接口 (第5版).jpg" width="150px"   /></a> | <a href=" "> <img src="images/组成原理/计算机组成与设计：硬件软件接口（ARM版）.jpg" width="150px"   /></a> | <a href=" "> <img src="images/组成原理/计算机组成与设计：硬件软件接口（RISC-V版）.jpg" width="150px"   /></a> | <a href=" "> <img src="images/组成原理/手把手教你设计CPU-RISC-V处理器篇.jpg" width="150px"  /></a> |
+| <a href="https://pan.baidu.com/s/1jgbNy15-cO-Jo83ekpSsAA?pwd=aqak"> <img src="images/组成原理/计算机组成  结构化方法（原书第6版）.jpg" width="150px"  /></a> | <a href="https://pan.baidu.com/s/1gFmtF_ooa3WcKDww7-mpzw?pwd=tbrk"> <img src="images/组成原理/计算机组成与设计 硬件软件接口 (第5版).jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1IMt-mSkY9V-P_PoRmnpuTQ?pwd=5a8f"> <img src="images/组成原理/计算机组成与设计：硬件软件接口（ARM版）.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1OecPfXZpa4OZrXlSHe3pXQ?pwd=9h9p"> <img src="images/组成原理/计算机组成与设计：硬件软件接口（RISC-V版）.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1e-bqmc7h9YrZrbrCL0PMNw?pwd=l2tv"> <img src="images/组成原理/手把手教你设计CPU-RISC-V处理器篇.jpg" width="150px"  /></a> |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | 计算机组成 <br>（原书第6版）                                                                 | 计算机组成与设计 <br> (第5版)                                                                  | 计算机组成与设计<br>（ARM版）                                                                   | 计算机组成与设计<br>（原书第5版·RISC-V版）                                                             | 手把手教你设计<br>CPU-RISC-V处理器篇                                                           |
 
-| <a href=" "> <img src="images/组成原理/电脑组装、维护、维修全能一本通.jpg" width="150px"   /></a> | <a href=" "> <img src="images/组成原理/计算机组装与维护.jpg" width="150px"  /></a> |
+| <a href="https://pan.baidu.com/s/14hoM_gYlpSB8wnEA7NOGoA?pwd=uikv"> <img src="images/组成原理/电脑组装、维护、维修全能一本通.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1aWKmCn6I8T38Z4oM_GrRAQ?pwd=l1ar"> <img src="images/组成原理/计算机组装与维护.jpg" width="150px"  /></a> |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 电脑组装、维护、维修<br>全能一本通                                                            | 计算机组装与维护                                                               |
 
@@ -52,11 +52,11 @@
 <details>
 <summary>计算机网络</summary>
 
-| <a href=" "> <img src="images/计算机网络/计算机网络 (第8版).jpg" width="150px"  /></a> | <a href=" "> <img src="images/计算机网络/计算机网络 自顶向下方法 (第七版).jpg" width="150px"   /></a> | <a href=" "> <img src="images/计算机网络/网络是怎样连接的.jpg" width="150px"   /></a> | <a href=" "> <img src="images/计算机网络/TCP IP详解 (第2版).jpg" width="150px"   /></a> | <a href=" "> <img src="images/计算机网络/计算机网络 系统方法 (第5版).jpg" width="150px"  /></a> |
+| <a href="https://pan.baidu.com/s/1Y3HIQQQf5Q1XDinRKDhILw?pwd=5tu5"> <img src="images/计算机网络/计算机网络 (第8版).jpg" width="150px"  /></a> | <a href="https://pan.baidu.com/s/1GK5n_jlb09onjgCx17jIdg?pwd=oaot"> <img src="images/计算机网络/计算机网络 自顶向下方法 (第七版).jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1Fjixqx-m_wP6Ce-9yCQBZA?pwd=0o4m"> <img src="images/计算机网络/网络是怎样连接的.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1D0YGzpsS0HGAhhVscjAtBg?pwd=i416"> <img src="images/计算机网络/TCP IP详解 (第2版).jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1hZbqzLH7SLeVAjewg3Y8kw?pwd=u5xf"> <img src="images/计算机网络/计算机网络 系统方法 (第5版).jpg" width="150px"  /></a> |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 计算机网络 (第8版)                                                                | 计算机网络 <br>自顶向下方法 (第七版)                                                             | 网络是怎样连接的                                                                 | TCP IP详解 (第2版)                                                                 | 计算机网络 <br>系统方法 (第5版)                                                            |
 
-| <a href=" "> <img src="images/计算机网络/图解HTTP.jpg" width="150px"   /></a> | <a href=" "> <img src="images/计算机网络/图解TCPIP协议.jpg" width="150px"  /></a> |
+| <a href="https://pan.baidu.com/s/1PYhWooeO83keGyhpIPm01Q?pwd=2tnc"> <img src="images/计算机网络/图解HTTP.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1qRwyW-Vtc8HwEEMxcjk3lg?pwd=e2mn"> <img src="images/计算机网络/图解TCPIP协议.jpg" width="150px"  /></a> |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | 图解HTTP                                                                 | 图解TCPIP协议                                                                |
 
@@ -65,7 +65,7 @@
 <details>
 <summary>操作系统</summary>
 
-| <a href=" "> <img src="images/操作系统/深入理解计算机系统（原书第3版）.jpg" width="150px"   /></a> | <a href=" "> <img src="images/操作系统/现代操作系统 (第4版).jpg" width="150px"   /></a> | <a href=" "> <img src="images/操作系统/操作系统导论.jpg" width="150px"  /></a> |
+| <a href="https://pan.baidu.com/s/1ORueUDElxP19tWReuQX2dg?pwd=2ujj"> <img src="images/操作系统/深入理解计算机系统（原书第3版）.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/13VhcATWABGq16kkBeuXDiw?pwd=ilps"> <img src="images/操作系统/现代操作系统 (第4版).jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1HDTfNKiGh5ephCIoFu3srA?pwd=1t8p"> <img src="images/操作系统/操作系统导论.jpg" width="150px"  /></a> |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 深入理解计算机系统<br>（原书第3版）                                                            | 现代操作系统<br> (第4版)                                                            | 操作系统导论                                                               |
 
