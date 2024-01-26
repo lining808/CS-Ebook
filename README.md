@@ -1,12 +1,12 @@
 本储存库是从网络上收集的一些高质量的计算机科学与技术电子书籍。包含了计算机大多数软件相关方向。
 
-<img src="images/bg.jpg" />
+<img src="images/bg.jpg"  alt=""/>
 
 ## 📘 具体内容
 
 🌟 **计算机基础**（计算机概论、组成原理、操作系统、计算机网络、数据结构、算法等）；
 
-🌟 **编程语言**（C、CPP、C#、Rust、Java、Go、Python、SQL、JavaScript、PHP、Ruby、Matlab、Latex、Shell等）；
+🌟 **编程语言**（C、CPP、C#、Rust、Java、Go、Python、SQL、JavaScript、PHP、Ruby、Matlab、Latex等）；
 
 🌟 **软件工程**（产品经理、软件架构、调试测试等）；
 
@@ -20,7 +20,7 @@
 
 书籍根据个人理解和爱好分类，找不到的可以搜索试试。
 
-<img src="images/class.svg" />
+<img src="images/class.svg"  alt=""/>
 
 ## 🏆 特点
 
@@ -47,15 +47,15 @@
 
 * 为防止和谐，压缩为zip格式，无解压密码。
 
-* 一个链接中可能不止一本书籍，系列书籍、配套书籍或者不同版本差距较大的书籍可能放在一个链接里。
+* 一个链接中可能不止一本书，系列书籍、配套书籍或者不同版本差距较大的书籍可能放在一个链接里。
 
-* 如果本书库没有收录，可以通过 [Z-Library](https://zh.zlibrary-east.se)(全球最大的开源图书馆) 进行搜索，上面书籍较多，但是质量赶不上本书库。
+* 如果本书库未收录，可以通过 [Z-Library](https://zh.zlibrary-east.se)(全球最大的开源图书馆) 检索，上面书籍较多，但是质量不如本书库。
 
 ## ⚠️ 声明
 
 此书库资源均来源于网络，仅供个人学习参考，**不用于商业用途**。下载查看后于24小时内删除。如果觉得书写的不错，一定要买一本纸质版支持一下作者。无意侵权，我只是网络的搬运工。如有侵权请联系本人删除或提交issue。
 
-<img src="images/start.jpg" />
+<img src="images/start.jpg"  alt=""/>
 
 # 计算机基础
 
@@ -540,7 +540,7 @@
 
 </details>
 
-<img src="images/end.jpg" />
+<img src="images/end.jpg"  alt=""/>
 
 ## 🤔 关于本人
 
@@ -548,7 +548,8 @@
 <summary> 简介 </summary>
 
 本人AI算法菜鸡一枚，因此书库中Python、Cpp、人工智能方面的书籍可能更全面一些。以下是自己绘制的AI算法技术栈，有不足的地方希望大家指正。
-<img src="images/dl.svg" />
+
+<img src="images/dl.svg"  alt=""/>
 </details>
 
 ## 🔄 更新计划
@@ -572,8 +573,8 @@
 
 ---
 
-<p align="center">
+<div style="text-align:center">
   <a href="https://star-history.com/#lining808/CS-Ebook&Date">
     <img src="https://api.star-history.com/svg?repos=lining808/CS-Ebook&type=Date" alt="Star History Chart">
   </a>
-</p>
+</div>
