@@ -46,7 +46,7 @@
 
 * 点击书籍封面跳转百度网盘链接。点击书籍名称跳转阿里云盘链接（阿里云盘不限速，可使用蜗牛云盘客户端提速下载）。点击直链下载添砖123盘链接（不需要客户端，网页下载不限速）。
 
-<img src="images/sample.jpg"    width="50%" alt=""/>
+<img src="images/sample.jpg"    width="70%" alt="" align=center/>
 
 * 为防止和谐，压缩为zip格式，无解压密码。
 
