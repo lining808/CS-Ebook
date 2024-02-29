@@ -48,6 +48,7 @@
 <div  align="center">
 <img src="images/sample.jpg" width="70%" alt="" />
 </div>
+
 * 为防止和谐，压缩为zip格式(仅百度云盘)，无解压密码。
 
 * 一个链接中可能不止一本书，系列书籍、配套书籍或者不同版本差距较大的书籍可能放在一个链接里。
