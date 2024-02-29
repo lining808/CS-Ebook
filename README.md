@@ -189,6 +189,16 @@
 </details>
 
 <details>
+<summary>R</summary>
+
+| <a href="https://pan.baidu.com/s/1oqaFJ5iYQSDjDuh8iAAhdw?pwd=aiz4"> <img src="images/R/R语言实战（第3版）.jpg" width="150px"  /></a> |
+|------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.alipan.com/s/cj2k6SDFQQK">R语言实战（第3版）</a>                                                                |
+| <a href="https://www.123pan.com/s/bjbgjv-z9Hhh.html"><font color=Red>直链下载</font></a>                                         |
+
+</details>
+
+<details>
 <summary>Rust</summary>
 
 | <a href="https://pan.baidu.com/s/1VMIfVUNDK63F1sgMZAprew?pwd=u2sx"> <img src="images/Rust/Rust 程序设计（第2版）.jpg" width="150px"  /></a> | <a href="https://www.aliyundrive.com/s/4Z8meSc2ZXa"> <img src="images/Rust/精通Rust(第2版).jpg" width="150px"   /></a> |
@@ -344,10 +354,10 @@
 <details>
 <summary>PHP</summary>
 
-| <a href=" "> <img src="images/PHP/Modern PHP  中文版.jpg" width="150px"  /></a>         |
-|--------------------------------------------------------------------------------------|
-| <a href="https://www.alipan.com/s/ta6WdNBJppy">Modern PHP <br> 中文版</a>               |
-| <a href="https://www.123pan.com/s/bjbgjv-uHHhh.html"><font color=Red>直链下载</font></a> |
+| <a href="https://pan.baidu.com/s/1GsWcHFJFFVyRz_UQCZhoNA?pwd=8qzr"> <img src="images/PHP/Modern PHP  中文版.jpg" width="150px"  /></a> |
+|-------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.alipan.com/s/ta6WdNBJppy">Modern PHP <br> 中文版</a>                                                              |
+| <a href="https://www.123pan.com/s/bjbgjv-uHHhh.html"><font color=Red>直链下载</font></a>                                                |
 
 </details>
 
