@@ -45,6 +45,7 @@
 ## 🚀 食用指南
 
 * 点击书籍封面跳转百度网盘链接。点击书籍名称跳转阿里云盘链接（阿里云盘不限速，可使用蜗牛云盘客户端提速下载）。点击直链下载添砖123盘链接（不需要客户端，网页下载不限速）。
+
 <div  align="center">
 <img src="images/sample.jpg" width="70%" alt="" />
 </div>
@@ -545,6 +546,11 @@
 | <a href="https://www.alipan.com/s/uojJDNrc4Xn">PyTorch 深度学习</a>                                                                   | <a href="https://www.alipan.com/s/zuqapRCnWVF">百面深度学习</a>                                                                    | <a href="https://www.alipan.com/s/XHkBrH8LPwZ">深度学习</a>                                                                    | <a href="https://www.alipan.com/s/AmsN18hhsVL">深度学习推荐系统</a>                                                                    | <a href="https://www.alipan.com/s/cwGfmeJ4ZFu">图神经网络</a>                                                                   |
 | <a href="https://www.123pan.com/s/bjbgjv-NAHhh.html"><font color=Red>直链下载</font></a>                                              | <a href="https://www.123pan.com/s/bjbgjv-rAHhh.html"><font color=Red>直链下载</font></a>                                         | <a href="https://www.123pan.com/s/bjbgjv-uAHhh.html"><font color=Red>直链下载</font></a>                                       | <a href="https://www.123pan.com/s/bjbgjv-7AHhh.html"><font color=Red>直链下载</font></a>                                           | <a href="https://www.123pan.com/s/bjbgjv-eAHhh.html"><font color=Red>直链下载</font></a>                                       |
 
+| <a href="https://pan.baidu.com/s/1tl8KfRLaVqMskBwfE90wtQ?pwd=tj0x"> <img src="images/深度学习/深度学习入门2 自制框架.jpg" width="150px"  /></a> |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.alipan.com/s/eY4WXeS1YKs">深度学习入门2<br>自制框架</a>                                                                |
+| <a href="https://www.123pan.com/s/bjbgjv-BQHhh.html"><font color=Red>直链下载</font></a>                                              |
+
 </details>
 
 <details>
@@ -653,9 +659,9 @@
 
 如果觉得资源不错，可以请库主喝杯咖啡!
 
-|  <img src="images/wechat.jpg" width="150px"  />  |  <img src="images/zfb.jpg" width="150px"   />  |
-|:------------------------------------------------:|:----------------------------------------------:|
-|              <center> 微信 </center>               |             <center> 支付宝 </center>             |
+| <img src="images/wechat.jpg" width="150px"  /> | <img src="images/zfb.jpg" width="150px"   /> |
+|:----------------------------------------------:|:--------------------------------------------:|
+|             <center> 微信 </center>              |            <center> 支付宝 </center>            |
 
 如果大家有经典的书籍本库没有收录的，欢迎PR。
 
