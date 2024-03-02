@@ -1,4 +1,5 @@
-本储存库是从网络上收集的一些高质量(经典好书、文件质量高、版本新)的计算机科学与技术电子书籍，包含了计算机大多数软件相关方向。而且敢承诺所收集得书为全网最新版本、全网质量最好、一直更新、永久免费的。
+本储存库是从网络上收集的一些高质量(经典好书、文件质量高、版本新)
+的计算机科学与技术电子书籍，包含了计算机大多数软件相关方向。而且敢承诺所收集得书为全网最新版本、全网质量最好、一直更新、永久免费的。
 
 <img src="images/bg.jpg"  alt=""/>
 
@@ -141,10 +142,10 @@
 <details>
 <summary>编程工具</summary>
 
-| <a href="https://pan.baidu.com/s/1Aa2f4oBqocRdzQYY9-XAAg?pwd=r0o5"> <img src="images/编程工具/PyCharm 中文指南（Win版）v2.0.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1q7sXG1_QLZInZaI549hfCw?pwd=ywcg"> <img src="images/编程工具/VSCode权威指南.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/17k5k04C6j3g7naQybqHhtg?pwd=ai3f"> <img src="images/编程工具/精通Git (第2版).jpg" width="150px"  /></a> |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://www.alipan.com/s/VUWHzwYbbvA">PyCharm 中文指南<br>（Win版）v2.0</a>                                                                | <a href="https://www.alipan.com/s/DT4WFceobSd">VSCode权威指南</a>                                                                    | <a href="https://www.alipan.com/s/vNaPvAiRtxv">精通Git (第2版)</a>                                                                   |
-| <a href="https://www.123pan.com/s/bjbgjv-FhHhh.html"><font color=Red>直链下载</font></a>                                                         | <a href="https://www.123pan.com/s/bjbgjv-YhHhh.html"><font color=Red>直链下载</font></a>                                             | <a href="https://www.123pan.com/s/bjbgjv-GhHhh.html"><font color=Red>直链下载</font></a>                                             |
+| <a href="https://pan.baidu.com/s/1Aa2f4oBqocRdzQYY9-XAAg?pwd=r0o5"> <img src="images/编程工具/PyCharm 中文指南（Win版）v2.0.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/1q7sXG1_QLZInZaI549hfCw?pwd=ywcg"> <img src="images/编程工具/VSCode权威指南.jpg" width="150px"   /></a> | <a href="https://pan.baidu.com/s/17k5k04C6j3g7naQybqHhtg?pwd=ai3f"> <img src="images/编程工具/精通Git (第2版).jpg" width="150px"  /></a> | <a href="https://pan.baidu.com/s/10w3u9Ar53g5u3lLjIf-6tQ?pwd=dkrn"> <img src="images/汇编/编译原理 (第2版).jpg" width="150px"  /></a> |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.alipan.com/s/VUWHzwYbbvA">PyCharm 中文指南<br>（Win版）v2.0</a>                                                                | <a href="https://www.alipan.com/s/DT4WFceobSd">VSCode权威指南</a>                                                                    | <a href="https://www.alipan.com/s/vNaPvAiRtxv">精通Git (第2版)</a>                                                                   | <a href="https://www.alipan.com/s/d5E6JxMsSCg">编译原理 (第2版).jpg</a>                                                             |
+| <a href="https://www.123pan.com/s/bjbgjv-FhHhh.html"><font color=Red>直链下载</font></a>                                                         | <a href="https://www.123pan.com/s/bjbgjv-YhHhh.html"><font color=Red>直链下载</font></a>                                             | <a href="https://www.123pan.com/s/bjbgjv-GhHhh.html"><font color=Red>直链下载</font></a>                                             | <a href="https://www.123pan.com/s/bjbgjv-fEHhh.html"><font color=Red>直链下载</font></a>                                          |
 
 </details>
 
@@ -288,6 +289,16 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://www.alipan.com/s/XLYuC9UVqWD">正则表达式必知必会<br> (修订版)</a>                                                              | <a href="https://www.alipan.com/s/bF5fCkTtuSc">正则指引（第2版）</a>                                                                 |
 | <a href="https://www.123pan.com/s/bjbgjv-YHHhh.html"><font color=Red>直链下载</font></a>                                                | <a href="https://www.123pan.com/s/bjbgjv-GHHhh.html"><font color=Red>直链下载</font></a>                                         |
+
+</details>
+
+<details>
+<summary>汇编</summary>
+
+| <a href="https://pan.baidu.com/s/1SmjFuJFMw3l62RJh6po31A?pwd=nzc8"> <img src="images/汇编/汇编语言 (第4版).jpg" width="150px"   /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.alipan.com/s/UEEJyFZYFoH">汇编语言 (第4版)</a>                                                                  |
+| <a href="https://www.123pan.com/s/bjbgjv-pEHhh.html"><font color=Red>直链下载</font></a>                                           |
 
 </details>
 
