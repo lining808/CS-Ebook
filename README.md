@@ -20,7 +20,7 @@
 
 分类根据个人理解和爱好分类，找不到的可以搜索试试。
 
-<img src="images/class.svg"  alt=""/>
+<img src="images/class.jpg"  alt=""/>
 
 ## 🏆 特点
 
