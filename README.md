@@ -481,7 +481,7 @@
 
 | <b href="1xXvus5pS6IToM8s-mqQumAhtg3"> <img src="images/深度学习/深度学习：基础与概念.jpg" width="150px"  /></a> |
 |----------------------------------------------------------------------------------------------------|
-| <b href="uojJDNrc4Xn">深度学习入门2<br>深度学习:基础与概念</a>                                                    |
+| <b href="uojJDNrc4Xn">深度学习:基础与概念</a>                                                    |
 </details>
 
 <details>
