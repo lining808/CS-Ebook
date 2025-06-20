@@ -31,13 +31,13 @@ def write_table(class_dict):
                 if (i+1) % 5 == 0:
                     table_head += f' <img src="images/{chapter}/{chapter2}/{img_name}" width="150px" /> |\n'
                     table_m += ' --------------------- |\n'
-                    table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 12)])} |\n'
+                    table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 10)])} |\n'
                     table += table_head + table_m + table_tail + '\n'
                     save_flag = True
                 else:
                     table_head += f' <img src="images/{chapter}/{chapter2}/{img_name}" width="150px" /> |'
                     table_m += ' --------------------- |'
-                    table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 12)])} |'
+                    table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 10)])} |'
                     save_flag = False
             if save_flag:
                 table += '\n</details>\n\n'
