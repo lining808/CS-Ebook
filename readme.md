@@ -50,15 +50,15 @@
 
 | <img src="images/人工智能/图像处理/3d计算机视觉.jpg" width="150px" /> | <img src="images/人工智能/图像处理/OpenCV计算机视觉教程.jpg" width="150px" /> | <img src="images/人工智能/图像处理/OpenCV轻松入门.jpg" width="150px" /> | <img src="images/人工智能/图像处理/Python OpenCV 从入门到精通.jpg" width="150px" /> | <img src="images/人工智能/图像处理/动手学计算机视觉.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 3d计算机视觉 | OpenCV计算机视觉教程 | OpenCV轻松入门 | Python OpenCV 从入门到精通 | 动手学计算机视觉 |
+| 3d计算机视觉 | OpenCV计算机视<br>程 | OpenCV轻松入门 | Python Ope<br>V 从入门到精通 | 动手学计算机视觉 |
 
 | <img src="images/人工智能/图像处理/图像工程 (第4版).jpg" width="150px" /> | <img src="images/人工智能/图像处理/数字图像处理（第4版）.jpg" width="150px" /> | <img src="images/人工智能/图像处理/深度学习与目标检测（第2版）.jpg" width="150px" /> | <img src="images/人工智能/图像处理/深度学习之PyTorch物体检测实战.jpg" width="150px" /> | <img src="images/人工智能/图像处理/深度学习入门.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 图像工程 (第4版) | 数字图像处理（第4版） | 深度学习与目标检测（第2版） | 深度学习之PyTorch物体检测实战 | 深度学习入门 |
+| 图像工程 (第4版) | 数字图像处理（第4版 | 深度学习与目标检测（<br>版） | 深度学习之PyTor<br>物体检测实战 | 深度学习入门 |
 
 | <img src="images/人工智能/图像处理/视觉SLAM十四讲 (第2版).jpg" width="150px" /> |
 | --------------------- |
-| 视觉SLAM十四讲 (第2版) |
+| 视觉SLAM十四讲 <br>2版) |
 </details>
 
 <details>
@@ -66,7 +66,7 @@
 
 | <img src="images/人工智能/强化学习/Easy RL强化学习教程.jpg" width="150px" /> | <img src="images/人工智能/强化学习/动手学强化学习.jpg" width="150px" /> | <img src="images/人工智能/强化学习/强化学习（第2版）.jpg" width="150px" /> | <img src="images/人工智能/强化学习/深度学习入门4.jpg" width="150px" /> | <img src="images/人工智能/强化学习/深度强化学习.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Easy RL强化学习教程 | 动手学强化学习 | 强化学习（第2版） | 深度学习入门4 | 深度强化学习 |
+| Easy RL强化学<br>程 | 动手学强化学习 | 强化学习（第2版） | 深度学习入门4 | 深度强化学习 |
 
 
 </details>
@@ -76,15 +76,15 @@
 
 | <img src="images/人工智能/机器学习/人工智能 现代方法（第4版）.jpg" width="150px" /> | <img src="images/人工智能/机器学习/动手学机器学习.jpg" width="150px" /> | <img src="images/人工智能/机器学习/可解释人工智能导论.jpg" width="150px" /> | <img src="images/人工智能/机器学习/吴恩达机器学习笔记.jpg" width="150px" /> | <img src="images/人工智能/机器学习/实用推荐系统.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 人工智能 现代方法（第4版） | 动手学机器学习 | 可解释人工智能导论 | 吴恩达机器学习笔记 | 实用推荐系统 |
+| 人工智能 现代方法（<br>版） | 动手学机器学习 | 可解释人工智能导论 | 吴恩达机器学习笔记 | 实用推荐系统 |
 
 | <img src="images/人工智能/机器学习/机器学习 (第2版).jpg" width="150px" /> | <img src="images/人工智能/机器学习/机器学习 公式推到与代码实现.jpg" width="150px" /> | <img src="images/人工智能/机器学习/机器学习.jpg" width="150px" /> | <img src="images/人工智能/机器学习/机器学习7.jpg" width="150px" /> | <img src="images/人工智能/机器学习/机器学习Python实战.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 机器学习 (第2版) | 机器学习 公式推到与代码实现 | 机器学习 | 机器学习7 | 机器学习Python实战 |
+| 机器学习 (第2版) | 机器学习 公式推到与<br>实现 | 机器学习 | 机器学习7 | 机器学习Python |
 
 | <img src="images/人工智能/机器学习/机器学习公式详解.jpg" width="150px" /> | <img src="images/人工智能/机器学习/机器学习实战 (第2版).jpg" width="150px" /> | <img src="images/人工智能/机器学习/百面机器学习.jpg" width="150px" /> | <img src="images/人工智能/机器学习/美团机器学习实践.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| 机器学习公式详解 | 机器学习实战 (第2版) | 百面机器学习 | 美团机器学习实践 |
+| 机器学习公式详解 | 机器学习实战 (第2 | 百面机器学习 | 美团机器学习实践 |
 </details>
 
 <details>
@@ -92,11 +92,11 @@
 
 | <img src="images/人工智能/深度学习/Python深度学习 基于PyTorch（第2版）.jpg" width="150px" /> | <img src="images/人工智能/深度学习/Python深度学习（第2版）.jpg" width="150px" /> | <img src="images/人工智能/深度学习/Python神经网络编程.jpg" width="150px" /> | <img src="images/人工智能/深度学习/Pytorch 深度学习实战.jpg" width="150px" /> | <img src="images/人工智能/深度学习/TensorFlow深度学习.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Python深度学习 基于PyTorch（第2版） | Python深度学习（第2版） | Python神经网络编程 | Pytorch 深度学习实战 | TensorFlow深度学习 |
+| Python深度学习<br>于PyTorch（第<br>） | Python深度学习<br>2版） | Python神经网络 | Pytorch 深度<br>实战 | TensorFlow<br>学习 |
 
 | <img src="images/人工智能/深度学习/动手学Pytorch建模与应用.jpg" width="150px" /> | <img src="images/人工智能/深度学习/动手学深度学习 (第2版).jpg" width="150px" /> | <img src="images/人工智能/深度学习/吴恩达深度学习笔记.jpg" width="150px" /> | <img src="images/人工智能/深度学习/图神经网络.jpg" width="150px" /> | <img src="images/人工智能/深度学习/李宏毅深度学习教程.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 动手学Pytorch建模与应用 | 动手学深度学习 (第2版) | 吴恩达深度学习笔记 | 图神经网络 | 李宏毅深度学习教程 |
+| 动手学Pytorch<br>与应用 | 动手学深度学习 (第<br>) | 吴恩达深度学习笔记 | 图神经网络 | 李宏毅深度学习教程 |
 
 | <img src="images/人工智能/深度学习/模式识别与机器学习.jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习 基础与概念.jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习.jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习500问 .jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习入门2.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
@@ -104,7 +104,7 @@
 
 | <img src="images/人工智能/深度学习/深度学习原理与Pytorch实战 (第2版).jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习原理与实践.jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习推荐系统.jpg" width="150px" /> | <img src="images/人工智能/深度学习/深度学习高手笔记.jpg" width="150px" /> | <img src="images/人工智能/深度学习/百面深度学习.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 深度学习原理与Pytorch实战 (第2版) | 深度学习原理与实践 | 深度学习推荐系统 | 深度学习高手笔记 | 百面深度学习 |
+| 深度学习原理与Pyt<br>ch实战 (第2版) | 深度学习原理与实践 | 深度学习推荐系统 | 深度学习高手笔记 | 百面深度学习 |
 
 | <img src="images/人工智能/深度学习/神经网络与深度学习.jpg" width="150px" /> |
 | --------------------- |
@@ -116,7 +116,7 @@
 
 | <img src="images/人工智能/自然语言处理/BERT基础教程.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/Pytorch自然语言处理.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/一本书读懂AIGC.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/从零构建大模型.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/大模型基础.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| BERT基础教程 | Pytorch自然语言处理 | 一本书读懂AIGC | 从零构建大模型 | 大模型基础 |
+| BERT基础教程 | Pytorch自然语<br>理 | 一本书读懂AIGC | 从零构建大模型 | 大模型基础 |
 
 | <img src="images/人工智能/自然语言处理/大规模语言模型.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/深度学习进阶.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/知识图谱与深度学习.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/知识图谱导论.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/自然语言处理.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
@@ -124,7 +124,7 @@
 
 | <img src="images/人工智能/自然语言处理/自然语言处理实战.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/自然语言处理导论.jpg" width="150px" /> | <img src="images/人工智能/自然语言处理/自然语言处理：基于预训练模型的方法.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- |
-| 自然语言处理实战 | 自然语言处理导论 | 自然语言处理：基于预训练模型的方法 |
+| 自然语言处理实战 | 自然语言处理导论 | 自然语言处理：基于预<br>模型的方法 |
 </details>
 
 # 信息安全
@@ -150,7 +150,7 @@
 
 | <img src="images/大数据处理/数据分析/Hadoop权威指南.jpg" width="150px" /> | <img src="images/大数据处理/数据分析/Python数据科学手册 (第2版).jpg" width="150px" /> | <img src="images/大数据处理/数据分析/Python金融大数据分析 (第2版).jpg" width="150px" /> | <img src="images/大数据处理/数据分析/利用Python进行数据分析 (第3版).jpg" width="150px" /> | <img src="images/大数据处理/数据分析/可视之美.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Hadoop权威指南 | Python数据科学手册 (第2版) | Python金融大数据分析 (第2版) | 利用Python进行数据分析 (第3版) | 可视之美 |
+| Hadoop权威指南 | Python数据科学<br> (第2版) | Python金融大数<br>析 (第2版) | 利用Python进行<br>分析 (第3版) | 可视之美 |
 
 | <img src="images/大数据处理/数据分析/数据有道.jpg" width="150px" /> |
 | --------------------- |
@@ -162,7 +162,7 @@
 
 | <img src="images/大数据处理/数据挖掘/数据密集型应用系统设计.jpg" width="150px" /> | <img src="images/大数据处理/数据挖掘/数据挖掘 概念与技术 (第3版).jpg" width="150px" /> | <img src="images/大数据处理/数据挖掘/数据挖掘导论 (完整版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- |
-| 数据密集型应用系统设计 | 数据挖掘 概念与技术 (第3版) | 数据挖掘导论 (完整版) |
+| 数据密集型应用系统设 | 数据挖掘 概念与技术<br>第3版) | 数据挖掘导论 (完整 |
 </details>
 
 # 应用技术
@@ -179,7 +179,7 @@
 
 | <img src="images/应用技术/数字媒体技术/游戏引擎架构（第2版）.jpg" width="150px" /> |
 | --------------------- |
-| 游戏引擎架构（第2版） |
+| 游戏引擎架构（第2版 |
 </details>
 
 <details>
@@ -200,11 +200,11 @@
 
 | <img src="images/数学基础/应用数学/机器学习的数学.jpg" width="150px" /> | <img src="images/数学基础/应用数学/机器学习的数学原理和算法实践.jpg" width="150px" /> | <img src="images/数学基础/应用数学/深度学习的数学.jpg" width="150px" /> | <img src="images/数学基础/应用数学/矩阵力量.jpg" width="150px" /> | <img src="images/数学基础/应用数学/程序员数学.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 机器学习的数学 | 机器学习的数学原理和算法实践 | 深度学习的数学 | 矩阵力量 | 程序员数学 |
+| 机器学习的数学 | 机器学习的数学原理和<br>实践 | 深度学习的数学 | 矩阵力量 | 程序员数学 |
 
 | <img src="images/数学基础/应用数学/程序员的数学 (第2版).jpg" width="150px" /> | <img src="images/数学基础/应用数学/程序员的数学 2 概率统计.jpg" width="150px" /> | <img src="images/数学基础/应用数学/程序员的数学 3 线性代数.jpg" width="150px" /> | <img src="images/数学基础/应用数学/程序员的数学4 图论入门.jpg" width="150px" /> | <img src="images/数学基础/应用数学/统计学习方法 (第2版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 程序员的数学 (第2版) | 程序员的数学 2 概率统计 | 程序员的数学 3 线性代数 | 程序员的数学4 图论入门 | 统计学习方法 (第2版) |
+| 程序员的数学 (第2 | 程序员的数学 2 概<br>计 | 程序员的数学 3 线<br>数 | 程序员的数学4 图论 | 统计学习方法 (第2 |
 
 | <img src="images/数学基础/应用数学/统计至简.jpg" width="150px" /> | <img src="images/数学基础/应用数学/计算机科学中的数学.jpg" width="150px" /> |
 | --------------------- | --------------------- |
@@ -216,11 +216,11 @@
 
 | <img src="images/数学基础/高等数学/复分析.jpg" width="150px" /> | <img src="images/数学基础/高等数学/普林斯顿微积分读本 (修订版).jpg" width="150px" /> | <img src="images/数学基础/高等数学/普林斯顿数学分析读本.jpg" width="150px" /> | <img src="images/数学基础/高等数学/普林斯顿概率论读本.jpg" width="150px" /> | <img src="images/数学基础/高等数学/概率导论 (第2版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 复分析 | 普林斯顿微积分读本 (修订版) | 普林斯顿数学分析读本 | 普林斯顿概率论读本 | 概率导论 (第2版) |
+| 复分析 | 普林斯顿微积分读本 <br>订版) | 普林斯顿数学分析读本 | 普林斯顿概率论读本 | 概率导论 (第2版) |
 
 | <img src="images/数学基础/高等数学/离散数学及其应用（第8版）.jpg" width="150px" /> | <img src="images/数学基础/高等数学/纯数学教程 (第9版).jpg" width="150px" /> | <img src="images/数学基础/高等数学/线性代数及其应用 (第4版).jpg" width="150px" /> | <img src="images/数学基础/高等数学/线性代数应该这样学 (第3版).jpg" width="150px" /> | <img src="images/数学基础/高等数学/组合数学 (第5版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 离散数学及其应用（第8版） | 纯数学教程 (第9版) | 线性代数及其应用 (第4版) | 线性代数应该这样学 (第3版) | 组合数学 (第5版) |
+| 离散数学及其应用（第<br>） | 纯数学教程 (第9版 | 线性代数及其应用 (<br>版) | 线性代数应该这样学 <br>3版) | 组合数学 (第5版) |
 
 
 </details>
@@ -239,11 +239,11 @@
 
 | <img src="images/晋级指南/软考/信息安全工程师教程（第2版）.jpg" width="150px" /> | <img src="images/晋级指南/软考/信息系统项目管理师教程（第4版）.jpg" width="150px" /> | <img src="images/晋级指南/软考/嵌入式系统设计师教程（第2版）.jpg" width="150px" /> | <img src="images/晋级指南/软考/数据库系统工程师教程（第3版）.jpg" width="150px" /> | <img src="images/晋级指南/软考/网络工程师教程（第5版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 信息安全工程师教程（第2版） | 信息系统项目管理师教程（第4版） | 嵌入式系统设计师教程（第2版） | 数据库系统工程师教程（第3版） | 网络工程师教程（第5版） |
+| 信息安全工程师教程（<br>版） | 信息系统项目管理师教<br>第4版） | 嵌入式系统设计师教程<br>2版） | 数据库系统工程师教程<br>3版） | 网络工程师教程（第5 |
 
 | <img src="images/晋级指南/软考/网络管理员教程（第5版）.jpg" width="150px" /> |
 | --------------------- |
-| 网络管理员教程（第5版） |
+| 网络管理员教程（第5 |
 </details>
 
 <details>
@@ -251,11 +251,11 @@
 
 | <img src="images/晋级指南/面试/代码整洁之道.jpg" width="150px" /> | <img src="images/晋级指南/面试/你真的会写代码吗.jpg" width="150px" /> | <img src="images/晋级指南/面试/剑指OFFER  名企面试官精讲典型编程题  (第2版).jpg" width="150px" /> | <img src="images/晋级指南/面试/剑指offer（专项突破版）.jpg" width="150px" /> | <img src="images/晋级指南/面试/程序员修炼之道（第2版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 代码整洁之道 | 你真的会写代码吗 | 剑指OFFER  名企面试官精讲典型编程题  (第2版) | 剑指offer（专项突破版） | 程序员修炼之道（第2版） |
+| 代码整洁之道 | 你真的会写代码吗 | 剑指OFFER  名<br>试官精讲典型编程题 <br>第2版) | 剑指offer（专项<br>版） | 程序员修炼之道（第2 |
 
 | <img src="images/晋级指南/面试/程序员面试金典（第6版）.jpg" width="150px" /> | <img src="images/晋级指南/面试/计算机程序的构造和解释 (第2版).jpg" width="150px" /> | <img src="images/晋级指南/面试/重构 (第2版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- |
-| 程序员面试金典（第6版） | 计算机程序的构造和解释 (第2版) | 重构 (第2版) |
+| 程序员面试金典（第6 | 计算机程序的构造和解<br>(第2版) | 重构 (第2版) |
 </details>
 
 # 编程语言
@@ -264,7 +264,7 @@
 
 | <img src="images/编程语言/C/C Primer Plus（第6版）.jpg" width="150px" /> | <img src="images/编程语言/C/C和指针.jpg" width="150px" /> | <img src="images/编程语言/C/C程序设计语言（第2版）.jpg" width="150px" /> | <img src="images/编程语言/C/C语言程序设计 现代方法 (第2版·修订版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| C Primer Plus（第6版） | C和指针 | C程序设计语言（第2版） | C语言程序设计 现代方法 (第2版·修订版) |
+| C Primer P<br>s（第6版） | C和指针 | C程序设计语言（第2 | C语言程序设计 现代<br> (第2版·修订版) |
 </details>
 
 <details>
@@ -272,7 +272,7 @@
 
 | <img src="images/编程语言/C#/C＃图解教程  (第5版).jpg" width="150px" /> | <img src="images/编程语言/C#/深入理解C＃（第3版）.jpg" width="150px" /> |
 | --------------------- | --------------------- |
-| C＃图解教程  (第5版) | 深入理解C＃（第3版） |
+| C＃图解教程  (第<br>) | 深入理解C＃（第3版 |
 </details>
 
 <details>
@@ -280,15 +280,15 @@
 
 | <img src="images/编程语言/Cpp/C++ Primer (第5版).jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++ Primer Plus (第6版).jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++ Primer习题集（第5版）.jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++ Templates (第2版·中文版).jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++20高级编程（第5版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| C++ Primer (第5版) | C++ Primer Plus (第6版) | C++ Primer习题集（第5版） | C++ Templates (第2版·中文版) | C++20高级编程（第5版） |
+| C++ Primer<br>第5版) | C++ Primer<br>lus (第6版) | C++ Primer<br>集（第5版） | C++ Templa<br>s (第2版·中文版 | C++20高级编程（<br>版） |
 
 | <img src="images/编程语言/Cpp/C++标准库 (第2版) .jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++程序设计语言 第1～3部分（第4版）.jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++程序设计语言 第4部分（第4版）.jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++程序设计语言（特别版）.jpg" width="150px" /> | <img src="images/编程语言/Cpp/C++程序设计（第3版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| C++标准库 (第2版)  | C++程序设计语言 第1～3部分（第4版） | C++程序设计语言 第4部分（第4版） | C++程序设计语言（特别版） | C++程序设计（第3版) |
+| C++标准库 (第2<br>  | C++程序设计语言 <br>～3部分（第4版） | C++程序设计语言 <br>部分（第4版） | C++程序设计语言（<br>版） | C++程序设计（第3 |
 
 | <img src="images/编程语言/Cpp/Effective Modern C++.jpg" width="150px" /> | <img src="images/编程语言/Cpp/More Effective C++.jpg" width="150px" /> | <img src="images/编程语言/Cpp/Qt6 C++开发指南.jpg" width="150px" /> | <img src="images/编程语言/Cpp/明解C++.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| Effective Modern C++ | More Effective C++ | Qt6 C++开发指南 | 明解C++ |
+| Effective <br>dern C++ | More Effec<br>ve C++ | Qt6 C++开发指 | 明解C++ |
 </details>
 
 <details>
@@ -304,15 +304,15 @@
 
 | <img src="images/编程语言/Java/Effective Java (第3版).jpg" width="150px" /> | <img src="images/编程语言/Java/Java实战 (第2版).jpg" width="150px" /> | <img src="images/编程语言/Java/Java核心技术（原书第12版）.jpg" width="150px" /> | <img src="images/编程语言/Java/Java编程思想 (第5版).jpg" width="150px" /> | <img src="images/编程语言/Java/Kafka权威指南（第2版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Effective Java (第3版) | Java实战 (第2版) | Java核心技术（原书第12版） | Java编程思想 (第5版) | Kafka权威指南（第2版） |
+| Effective <br>va (第3版) | Java实战 (第2 | Java核心技术（原<br>12版） | Java编程思想 (<br>版) | Kafka权威指南（<br>版） |
 
 | <img src="images/编程语言/Java/MyBatis从入门到精通.jpg" width="150px" /> | <img src="images/编程语言/Java/Spring Boot +Vue3.jpg" width="150px" /> | <img src="images/编程语言/Java/Spring Boot实战.jpg" width="150px" /> | <img src="images/编程语言/Java/Spring Boot实战_.jpg" width="150px" /> | <img src="images/编程语言/Java/Spring实战（第6版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| MyBatis从入门到精通 | Spring Boot +Vue3 | Spring Boot实战 | Spring Boot实战_ | Spring实战（第6版） |
+| MyBatis从入门<br>通 | Spring Boo<br>+Vue3 | Spring Boo<br>战 | Spring Boo<br>战_ | Spring实战（第<br>） |
 
 | <img src="images/编程语言/Java/Spring微服务实战（第2版）.jpg" width="150px" /> | <img src="images/编程语言/Java/深入理解Java虚拟机（第3版）.jpg" width="150px" /> | <img src="images/编程语言/Java/深入理解Kafka.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- |
-| Spring微服务实战（第2版） | 深入理解Java虚拟机（第3版） | 深入理解Kafka |
+| Spring微服务实<br>第2版） | 深入理解Java虚拟<br>第3版） | 深入理解Kafka |
 </details>
 
 <details>
@@ -320,15 +320,15 @@
 
 | <img src="images/编程语言/JavaScript/CSS世界.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/CSS新世界.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/CSS选择器世界.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/JavaScript权威指南 (第7版).jpg" width="150px" /> | <img src="images/编程语言/JavaScript/JavaScript高级程序设计 (第4版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| CSS世界 | CSS新世界 | CSS选择器世界 | JavaScript权威指南 (第7版) | JavaScript高级程序设计 (第4版) |
+| CSS世界 | CSS新世界 | CSS选择器世界 | JavaScript<br>指南 (第7版) | JavaScript<br>程序设计 (第4版) |
 
 | <img src="images/编程语言/JavaScript/jQuery实战（第三版）.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/TypeScript编程.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/Vuejs设计与实现.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/你不知道的JavaScript.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/小程序开发原理与实战.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| jQuery实战（第三版） | TypeScript编程 | Vuejs设计与实现 | 你不知道的JavaScript | 小程序开发原理与实战 |
+| jQuery实战（第<br>） | TypeScript | Vuejs设计与实现 | 你不知道的JavaS<br>ipt | 小程序开发原理与实战 |
 
 | <img src="images/编程语言/JavaScript/揭秘Angular（第2版）.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/深入React技术栈.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/深入浅出Nodejs.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/深入理解ES6.jpg" width="150px" /> | <img src="images/编程语言/JavaScript/深入解析CSS.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 揭秘Angular（第2版） | 深入React技术栈 | 深入浅出Nodejs | 深入理解ES6 | 深入解析CSS |
+| 揭秘Angular（<br>版） | 深入React技术栈 | 深入浅出Nodejs | 深入理解ES6 | 深入解析CSS |
 
 
 </details>
@@ -338,7 +338,7 @@
 
 | <img src="images/编程语言/Kotlin/Android编程权威指南（第4版）.jpg" width="150px" /> | <img src="images/编程语言/Kotlin/Kotlin实战.jpg" width="150px" /> |
 | --------------------- | --------------------- |
-| Android编程权威指南（第4版） | Kotlin实战 |
+| Android编程权<br>南（第4版） | Kotlin实战 |
 </details>
 
 <details>
@@ -346,7 +346,7 @@
 
 | <img src="images/编程语言/Latex/Latex Notes 雷太赫排版系统简介.jpg" width="150px" /> |
 | --------------------- |
-| Latex Notes 雷太赫排版系统简介 |
+| Latex Note<br>雷太赫排版系统简介 |
 </details>
 
 <details>
@@ -354,7 +354,7 @@
 
 | <img src="images/编程语言/MATLAB/MATLAB从入门到精通.jpg" width="150px" /> |
 | --------------------- |
-| MATLAB从入门到精通 |
+| MATLAB从入门到 |
 </details>
 
 <details>
@@ -362,7 +362,7 @@
 
 | <img src="images/编程语言/PHP/Modern PHP  （中文版）.jpg" width="150px" /> |
 | --------------------- |
-| Modern PHP  （中文版） |
+| Modern PHP<br>（中文版） |
 </details>
 
 <details>
@@ -370,15 +370,15 @@
 
 | <img src="images/编程语言/Python/Effect Python.jpg" width="150px" /> | <img src="images/编程语言/Python/Flash Web开发 (第2版).jpg" width="150px" /> | <img src="images/编程语言/Python/Flask Web开发实战.jpg" width="150px" /> | <img src="images/编程语言/Python/Pandas数据处理与分析.jpg" width="150px" /> | <img src="images/编程语言/Python/Python asyncio 并发编程.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Effect Python | Flash Web开发 (第2版) | Flask Web开发实战 | Pandas数据处理与分析 | Python asyncio 并发编程 |
+| Effect Pyt<br>n | Flash Web开<br>(第2版) | Flask Web开<br>战 | Pandas数据处理<br>析 | Python asy<br>io 并发编程 |
 
 | <img src="images/编程语言/Python/Python Qt GUI与数据可视化编程.jpg" width="150px" /> | <img src="images/编程语言/Python/Python3网络爬虫开发实战（第2版）.jpg" width="150px" /> | <img src="images/编程语言/Python/Python基础教程 (第3版).jpg" width="150px" /> | <img src="images/编程语言/Python/Python编程快速上手.jpg" width="150px" /> | <img src="images/编程语言/Python/Python编程：从入门到实践（第3版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Python Qt GUI与数据可视化编程 | Python3网络爬虫开发实战（第2版） | Python基础教程 (第3版) | Python编程快速上手 | Python编程：从入门到实践（第3版） |
+| Python Qt <br>I与数据可视化编程 | Python3网络爬<br>发实战（第2版） | Python基础教程<br>第3版) | Python编程快速 | Python编程：从<br>到实践（第3版） |
 
 | <img src="images/编程语言/Python/Python网络爬虫权威指南 (第2版).jpg" width="150px" /> | <img src="images/编程语言/Python/Selenium3自动化测试实战.jpg" width="150px" /> | <img src="images/编程语言/Python/SQLAlchemy Python数据库实战.jpg" width="150px" /> | <img src="images/编程语言/Python/明解Python.jpg" width="150px" /> | <img src="images/编程语言/Python/流畅的 Python（第2版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Python网络爬虫权威指南 (第2版) | Selenium3自动化测试实战 | SQLAlchemy Python数据库实战 | 明解Python | 流畅的 Python（第2版） |
+| Python网络爬虫<br>指南 (第2版) | Selenium3自<br>测试实战 | SQLAlchemy<br>ython数据库实战 | 明解Python | 流畅的 Python<br>2版） |
 
 | <img src="images/编程语言/Python/编程不难.jpg" width="150px" /> |
 | --------------------- |
@@ -406,7 +406,7 @@
 
 | <img src="images/编程语言/Rust/Rust 程序设计（第2版）.jpg" width="150px" /> | <img src="images/编程语言/Rust/精通Rust（第2版).jpg" width="150px" /> |
 | --------------------- | --------------------- |
-| Rust 程序设计（第2版） | 精通Rust（第2版) |
+| Rust 程序设计（<br>版） | 精通Rust（第2版 |
 </details>
 
 <details>
@@ -414,15 +414,15 @@
 
 | <img src="images/编程语言/SQL/MongoDB实战  (第2版).jpg" width="150px" /> | <img src="images/编程语言/SQL/MySQL基础教程.jpg" width="150px" /> | <img src="images/编程语言/SQL/MySQL是怎样运行的.jpg" width="150px" /> | <img src="images/编程语言/SQL/PostgreSQL 技术内幕.jpg" width="150px" /> | <img src="images/编程语言/SQL/Redis开发与运维.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| MongoDB实战  (第2版) | MySQL基础教程 | MySQL是怎样运行的 | PostgreSQL 技术内幕 | Redis开发与运维 |
+| MongoDB实战 <br>第2版) | MySQL基础教程 | MySQL是怎样运行 | PostgreSQL<br>术内幕 | Redis开发与运维 |
 
 | <img src="images/编程语言/SQL/Redis设计与实现.jpg" width="150px" /> | <img src="images/编程语言/SQL/SQL Server从入门到精通.jpg" width="150px" /> | <img src="images/编程语言/SQL/SQL基础教程 (第2版).jpg" width="150px" /> | <img src="images/编程语言/SQL/SQL必知必会 (第5版).jpg" width="150px" /> | <img src="images/编程语言/SQL/SQL进阶教程.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Redis设计与实现 | SQL Server从入门到精通 | SQL基础教程 (第2版) | SQL必知必会 (第5版) | SQL进阶教程 |
+| Redis设计与实现 | SQL Server<br>门到精通 | SQL基础教程 (第<br>) | SQL必知必会 (第<br>) | SQL进阶教程 |
 
 | <img src="images/编程语言/SQL/收获不止Oracle (第2版).jpg" width="150px" /> | <img src="images/编程语言/SQL/数据库系统概念 (第6版).jpg" width="150px" /> | <img src="images/编程语言/SQL/高性能MYSQL（第3版).jpg" width="150px" /> | <img src="images/编程语言/SQL/高性能MYSQL（第4版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| 收获不止Oracle (第2版) | 数据库系统概念 (第6版) | 高性能MYSQL（第3版) | 高性能MYSQL（第4版） |
+| 收获不止Oracle<br>第2版) | 数据库系统概念 (第<br>) | 高性能MYSQL（第<br>) | 高性能MYSQL（第<br>） |
 </details>
 
 <details>
@@ -438,7 +438,7 @@
 
 | <img src="images/编程语言/正则/正则指引（第2版）.jpg" width="150px" /> | <img src="images/编程语言/正则/正则表达式必知必会 (修订版).jpg" width="150px" /> |
 | --------------------- | --------------------- |
-| 正则指引（第2版） | 正则表达式必知必会 (修订版) |
+| 正则指引（第2版） | 正则表达式必知必会 <br>订版) |
 </details>
 
 <details>
@@ -454,7 +454,7 @@
 
 | <img src="images/编程语言/编程工具/Pro Git (第2版).jpg" width="150px" /> | <img src="images/编程语言/编程工具/PyCharm 中文指南.jpg" width="150px" /> | <img src="images/编程语言/编程工具/VSCode权威指南.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- |
-| Pro Git (第2版) | PyCharm 中文指南 | VSCode权威指南 |
+| Pro Git (第<br>) | PyCharm 中文 | VSCode权威指南 |
 </details>
 
 # 计算机基础
@@ -463,19 +463,19 @@
 
 | <img src="images/计算机基础/操作系统/Linux UNIX系统编程手册.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/Linux 就该这么学 （第2版）.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/Linux命令行与Shell脚本编程大全 (第4版).jpg" width="150px" /> | <img src="images/计算机基础/操作系统/Linux命令行大全（第2版）.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/Linux常用命令自学手册.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Linux UNIX系统编程手册 | Linux 就该这么学 （第2版） | Linux命令行与Shell脚本编程大全 (第4版) | Linux命令行大全（第2版） | Linux常用命令自学手册 |
+| Linux UNIX<br>编程手册 | Linux 就该这么<br>（第2版） | Linux命令行与S<br>ll脚本编程大全 (<br>版) | Linux命令行大全<br>2版） | Linux常用命令自<br>册 |
 
 | <img src="images/计算机基础/操作系统/Unix&Liunx大学教程.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/UNIX环境高级编程 (第3版).jpg" width="150px" /> | <img src="images/计算机基础/操作系统/UNIX编程艺术.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/UNIX网络编程 (第3版).jpg" width="150px" /> | <img src="images/计算机基础/操作系统/Vim实用技巧 (第2版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Unix&Liunx大学教程 | UNIX环境高级编程 (第3版) | UNIX编程艺术 | UNIX网络编程 (第3版) | Vim实用技巧 (第2版) |
+| Unix&Liunx<br>教程 | UNIX环境高级编程<br>第3版) | UNIX编程艺术 | UNIX网络编程 (<br>版) | Vim实用技巧 (第<br>) |
 
 | <img src="images/计算机基础/操作系统/操作系统导论.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/深入Linux内核架构.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/深入理解计算机系统（第3版）.jpg" width="150px" /> | <img src="images/计算机基础/操作系统/现代操作系统 (第4版).jpg" width="150px" /> | <img src="images/计算机基础/操作系统/鸟哥的Linux私房菜 (第3版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 操作系统导论 | 深入Linux内核架构 | 深入理解计算机系统（第3版） | 现代操作系统 (第4版) | 鸟哥的Linux私房菜 (第3版) |
+| 操作系统导论 | 深入Linux内核架 | 深入理解计算机系统（<br>版） | 现代操作系统 (第4 | 鸟哥的Linux私房<br>(第3版) |
 
 | <img src="images/计算机基础/操作系统/鸟哥的Linux私房菜 (第4版).jpg" width="150px" /> |
 | --------------------- |
-| 鸟哥的Linux私房菜 (第4版) |
+| 鸟哥的Linux私房<br>(第4版) |
 </details>
 
 <details>
@@ -483,15 +483,15 @@
 
 | <img src="images/计算机基础/算法与数据结构/labuladong的算法小抄 .jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/LeetCode 101 (C++版).jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/大话数据结构（溢彩加强版）.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/数据结构 (第3版).jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/数据结构与算法分析（第2版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| labuladong的算法小抄  | LeetCode 101 (C++版) | 大话数据结构（溢彩加强版） | 数据结构 (第3版) | 数据结构与算法分析（第2版） |
+| labuladong<br>法小抄  | LeetCode 1<br> (C++版) | 大话数据结构（溢彩加<br>） | 数据结构 (第3版) | 数据结构与算法分析（<br>版） |
 
 | <img src="images/计算机基础/算法与数据结构/数据结构与算法图解.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/明解Python算法与数据结构.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/漫画算法 Python篇.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/漫画算法 小灰的算法之旅.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/算法  (第4版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 数据结构与算法图解 | 明解Python算法与数据结构 | 漫画算法 Python篇 | 漫画算法 小灰的算法之旅 | 算法  (第4版) |
+| 数据结构与算法图解 | 明解Python算法<br>据结构 | 漫画算法 Pytho | 漫画算法 小灰的算法 | 算法  (第4版) |
 
 | <img src="images/计算机基础/算法与数据结构/算法图解.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/算法导论（第3版）.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/算法笔记.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/算法精粹.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/算法设计与分析基础 (第3版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 算法图解 | 算法导论（第3版） | 算法笔记 | 算法精粹 | 算法设计与分析基础 (第3版) |
+| 算法图解 | 算法导论（第3版） | 算法笔记 | 算法精粹 | 算法设计与分析基础 <br>3版) |
 
 | <img src="images/计算机基础/算法与数据结构/编程珠玑（第2版）.jpg" width="150px" /> | <img src="images/计算机基础/算法与数据结构/计算机程序设计艺术.jpg" width="150px" /> |
 | --------------------- | --------------------- |
@@ -503,7 +503,7 @@
 
 | <img src="images/计算机基础/组成原理/手把手教你设计CPU-RISC-V处理器篇.jpg" width="150px" /> | <img src="images/计算机基础/组成原理/电脑组装、维护、维修全能一本通.jpg" width="150px" /> | <img src="images/计算机基础/组成原理/计算机组成与设计  (第5版).jpg" width="150px" /> | <img src="images/计算机基础/组成原理/计算机组成与设计（ARM版）.jpg" width="150px" /> | <img src="images/计算机基础/组成原理/计算机组成与设计（RISC-V版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 手把手教你设计CPU-RISC-V处理器篇 | 电脑组装、维护、维修全能一本通 | 计算机组成与设计  (第5版) | 计算机组成与设计（ARM版） | 计算机组成与设计（RISC-V版） |
+| 手把手教你设计CPU<br>ISC-V处理器篇 | 电脑组装、维护、维修<br>一本通 | 计算机组成与设计  <br>5版) | 计算机组成与设计（A<br>版） | 计算机组成与设计（R<br>C-V版） |
 
 | <img src="images/计算机基础/组成原理/计算机组成（第6版）.jpg" width="150px" /> | <img src="images/计算机基础/组成原理/计算机组装与维护.jpg" width="150px" /> |
 | --------------------- | --------------------- |
@@ -515,7 +515,7 @@
 
 | <img src="images/计算机基础/计算机概论/大话计算机 卷1-3.jpg" width="150px" /> | <img src="images/计算机基础/计算机概论/计算机科学导论（第4版）.jpg" width="150px" /> | <img src="images/计算机基础/计算机概论/计算机科学技术百科全书 (第3版).jpg" width="150px" /> | <img src="images/计算机基础/计算机概论/计算机科学概论 (第13版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| 大话计算机 卷1-3 | 计算机科学导论（第4版） | 计算机科学技术百科全书 (第3版) | 计算机科学概论 (第13版) |
+| 大话计算机 卷1-3 | 计算机科学导论（第4 | 计算机科学技术百科全<br>(第3版) | 计算机科学概论 (第<br>版) |
 </details>
 
 <details>
@@ -523,11 +523,11 @@
 
 | <img src="images/计算机基础/计算机网络/TCP IP详解 (第2版).jpg" width="150px" /> | <img src="images/计算机基础/计算机网络/图解HTTP.jpg" width="150px" /> | <img src="images/计算机基础/计算机网络/图解TCPIP.jpg" width="150px" /> | <img src="images/计算机基础/计算机网络/网络是怎样连接的.jpg" width="150px" /> | <img src="images/计算机基础/计算机网络/计算机网络 (第8版).jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| TCP IP详解 (第2版) | 图解HTTP | 图解TCPIP | 网络是怎样连接的 | 计算机网络 (第8版) |
+| TCP IP详解 (<br>版) | 图解HTTP | 图解TCPIP | 网络是怎样连接的 | 计算机网络 (第8版 |
 
 | <img src="images/计算机基础/计算机网络/计算机网络 系统方法 (第5版).jpg" width="150px" /> | <img src="images/计算机基础/计算机网络/计算机网络 自顶向下方法 (第7版).jpg" width="150px" /> |
 | --------------------- | --------------------- |
-| 计算机网络 系统方法 (第5版) | 计算机网络 自顶向下方法 (第7版) |
+| 计算机网络 系统方法<br>第5版) | 计算机网络 自顶向下<br> (第7版) |
 </details>
 
 # 软件工程
@@ -544,7 +544,7 @@
 
 | <img src="images/软件工程/架构设计/代码随想录 八股文.jpg" width="150px" /> | <img src="images/软件工程/架构设计/写给大家看的设计书（第4版）.jpg" width="150px" /> | <img src="images/软件工程/架构设计/凤凰架构.jpg" width="150px" /> | <img src="images/软件工程/架构设计/图解设计模式.jpg" width="150px" /> | <img src="images/软件工程/架构设计/大话设计模式.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 代码随想录 八股文 | 写给大家看的设计书（第4版） | 凤凰架构 | 图解设计模式 | 大话设计模式 |
+| 代码随想录 八股文 | 写给大家看的设计书（<br>版） | 凤凰架构 | 图解设计模式 | 大话设计模式 |
 
 | <img src="images/软件工程/架构设计/微服务架构设计模式.jpg" width="150px" /> | <img src="images/软件工程/架构设计/架构整洁之道.jpg" width="150px" /> | <img src="images/软件工程/架构设计/设计模式之美.jpg" width="150px" /> | <img src="images/软件工程/架构设计/设计模式的艺术.jpg" width="150px" /> | <img src="images/软件工程/架构设计/设计模式（典藏版）.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
@@ -552,7 +552,7 @@
 
 | <img src="images/软件工程/架构设计/软件工程 （第10版）.jpg" width="150px" /> |
 | --------------------- |
-| 软件工程 （第10版） |
+| 软件工程 （第10版 |
 </details>
 
 <details>
@@ -560,11 +560,11 @@
 
 | <img src="images/软件工程/测试运维/DevOps实践指南.jpg" width="150px" /> | <img src="images/软件工程/测试运维/Docker 容器与容器云（第2版）.jpg" width="150px" /> | <img src="images/软件工程/测试运维/JMeter实战.jpg" width="150px" /> | <img src="images/软件工程/测试运维/Kubernetes修炼手册.jpg" width="150px" /> | <img src="images/软件工程/测试运维/Kubernet权威指南.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| DevOps实践指南 | Docker 容器与容器云（第2版） | JMeter实战 | Kubernetes修炼手册 | Kubernet权威指南 |
+| DevOps实践指南 | Docker 容器与<br>云（第2版） | JMeter实战 | Kubernetes<br>手册 | Kubernet权威 |
 
 | <img src="images/软件工程/测试运维/持续交付.jpg" width="150px" /> | <img src="images/软件工程/测试运维/深入剖析Kubernetes.jpg" width="150px" /> | <img src="images/软件工程/测试运维/深入浅出Docker.jpg" width="150px" /> | <img src="images/软件工程/测试运维/软件调试.jpg" width="150px" /> |
 | --------------------- | --------------------- | --------------------- | --------------------- |
-| 持续交付 | 深入剖析Kubernetes | 深入浅出Docker | 软件调试 |
+| 持续交付 | 深入剖析Kubern<br>es | 深入浅出Docker | 软件调试 |
 </details>
 
 <img src="images/end.jpg"  alt=""/>
