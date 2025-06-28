@@ -270,7 +270,7 @@
 <details>
 <summary>C#</summary>
 
-| <img src="images/编程语言/C#/C＃图解教程  (第5版).jpg" width="150px" /> | <img src="images/编程语言/C#/深入理解C＃（第3版）.jpg" width="150px" /> |
+| <img src="images/编程语言/C%23/C＃图解教程  (第5版).jpg" width="150px" /> | <img src="images/编程语言/C%23/深入理解C＃（第3版）.jpg" width="150px" /> |
 | --------------------- | --------------------- |
 | C＃图解教程  (第<br>5版) | 深入理解C＃（第3版<br>） |
 </details>
