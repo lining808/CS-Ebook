@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 from PIL import Image
 from pathlib import Path
 
@@ -29,13 +30,13 @@ def write_table(class_dict):
                 if save_flag:
                     table_head, table_m, table_tail = '|', '|', '|'
                 if (i+1) % 5 == 0:
-                    table_head += f' <img src="images/{chapter}/{chapter2}/{img_name}" width="150px" /> |\n'
+                    table_head += f' <img src="{urllib.parse.quote(f"images/{chapter}/{chapter2}/{img_name}")}" width="150px" /> |\n'
                     table_m += ' --------------------- |\n'
                     table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 10)])} |\n'
                     table += table_head + table_m + table_tail + '\n'
                     save_flag = True
                 else:
-                    table_head += f' <img src="images/{chapter}/{chapter2}/{img_name}" width="150px" /> |'
+                    table_head += f' <img src="{urllib.parse.quote(f"images/{chapter}/{chapter2}/{img_name}")}" width="150px" /> |'
                     table_m += ' --------------------- |'
                     table_tail += f' {"<br>".join([img_name.split(".")[0][i:i+10] for i in range(0, len(img_name.split(".")[0]), 10)])} |'
                     save_flag = False
@@ -200,5 +201,4 @@ if __name__ == '__main__':
     write_head()
     write_table(class_dict)
     write_tail()
-
 
